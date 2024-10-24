@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/09 15:43:47.000.895,=C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/09/09 15:45:16.000.602,C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\Principal.fmx</Transaction>
+    <Transaction>2024/09/09 15:45:16.000.602,C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\Principal.pas</Transaction>
+    <Transaction>2024/09/09 15:45:26.000.666,C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\OttoBot.dproj</Transaction>
+    <Transaction>2024/09/11 09:35:35.000.054,=C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\Fonts\MontserratAlternates-SemiBold.ttf</Transaction>
+    <Transaction>2024/09/11 09:49:12.000.511,=C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\FMX.FontGlyphs.Android.pas</Transaction>
+    <Transaction>2024/09/11 09:56:52.000.914,C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\FMX.FontGlyphs.Android.pas=</Transaction>
+    <Transaction>2024/09/11 10:23:18.000.364,=C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\Unit1.pas</Transaction>
+    <Transaction>2024/09/11 10:23:47.000.263,C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\Unit1.fmx=C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\About.fmx</Transaction>
+    <Transaction>2024/09/11 10:23:47.000.263,C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\Unit1.pas=C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\About.pas</Transaction>
+    <Transaction>2024/09/11 11:04:21.000.653,=C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\Unit1.pas</Transaction>
+    <Transaction>2024/09/11 11:04:31.000.693,C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\Unit1.pas=C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\u_urlOpen.pas</Transaction>
+    <Transaction>2024/09/11 11:06:27.000.301,=C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\Units\u_urlOpen.pas</Transaction>
+    <Transaction>2024/09/12 09:12:22.000.643,=C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\Unit1.pas</Transaction>
+    <Transaction>2024/09/12 09:14:30.000.747,C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\Configuration.pas=C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\Unit1.pas</Transaction>
+    <Transaction>2024/09/12 09:14:30.000.747,C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\Configuration.fmx=C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\Unit1.fmx</Transaction>
+    <Transaction>2024/09/12 09:20:24.000.198,=C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\Units\BTConfig.pas</Transaction>
+    <Transaction>2024/09/12 10:03:19.000.555,C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\Setup.fmx=C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\Configuration.fmx</Transaction>
+    <Transaction>2024/09/12 10:03:19.000.555,C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\Setup.pas=C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\Configuration.pas</Transaction>
+    <Transaction>2024/09/12 12:47:43.000.645,=C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\Units\uCombobox.pas</Transaction>
+    <Transaction>2024/09/12 12:47:43.000.714,=C:\Users\mauricio.vicente\Documents\Embarcadero\Studio\Projects\AppOtto\Units\uLoading.pas</Transaction>
+    <Transaction>2024/09/12 20:24:13.000.917,=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\AppOtto\Unit1.pas</Transaction>
+    <Transaction>2024/09/12 20:24:32.000.304,C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\AppOtto\Unit1.pas=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\AppOtto\AddMoves.pas</Transaction>
+    <Transaction>2024/09/12 20:24:32.000.304,C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\AppOtto\Unit1.fmx=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\AppOtto\AddMoves.fmx</Transaction>
+    <Transaction>2024/09/16 18:23:02.000.754,=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\AppOtto\Unit1.pas</Transaction>
+    <Transaction>2024/09/16 18:23:55.000.242,C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\AppOtto\Splash.fmx=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\AppOtto\Unit1.fmx</Transaction>
+    <Transaction>2024/09/16 18:23:55.000.242,C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\AppOtto\Splash.pas=C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\AppOtto\Unit1.pas</Transaction>
+    <Transaction>2024/09/16 19:40:48.000.819,C:\Users\Administrador\Documents\Embarcadero\Studio\Projects\AppOtto\Splash.pas=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64="" Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>

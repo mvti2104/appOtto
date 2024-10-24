@@ -1,0 +1,11 @@
+enum orgao {cllo = 0,clli,crlo,crli,clfo,clfi,crfo,crfi,save};
+const char* orgaoNome[] = {"cllo","clli","crlo","crli","clfo","clfi","crfo","crfi","save"};
+
+int getIndiceEnum(const char* orgao) {
+  for (int i = 0; i < sizeof(orgaoNome) / sizeof(orgaoNome[0]); i++) {
+    if (strcmp(orgaoNome[i], orgao) == 0) {
+      return i;  // Retorna o índice correspondente
+    }
+  }
+  return -1;  // Retorna -1 se não encontrar a string
+}
