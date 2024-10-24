@@ -1,2 +1,0 @@
-.\assets\internal\Monda.ttf
-.\assets\internal\Montserrat Alternates.ttf
